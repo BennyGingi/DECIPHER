@@ -1,0 +1,64 @@
+# DECIPHER — Custom Wordlist
+# Add passwords / keys here, one per line
+# Lines starting with # are ignored
+# The tool loads this file automatically on startup
+#
+# Tips:
+# - Add passwords you find during investigations
+# - Add common passwords from breached databases
+# - Add company-specific defaults (product names, team names)
+# - Add hex keys you've encountered before
+# - You can also paste entire wordlists from SecLists, rockyou, etc.
+
+password
+password123
+123456
+12345678
+admin
+administrator
+root
+secret
+supersecret
+changeme
+letmein
+welcome
+qwerty
+monkey
+dragon
+master
+trustno1
+shadow
+sunshine
+abc123
+passw0rd
+default
+guest
+test
+test123
+login
+flag
+ctf
+hack
+hacker
+security
+encrypted
+key
+secretkey
+mykey
+thekey
+aeskey
+crypto
+cipher
+decipher
+iloveyou
+football
+baseball
+batman
+superman
+starwars
+hello
+P@ssw0rd
+P@ssword1
+Winter2024
+Summer2025
+Company123
